@@ -93,3 +93,46 @@ A detailed, filter-driven deep dive into customer-level data gaps.
 ---
 
 ## 📂 Repository Structure
+├── Dashboard.pbix
+├── README.md
+├── Screenshots/
+
+---
+
+## 🚀 Getting Started
+1. Clone or download this repository  
+2. Open `Dashboard.pbix` using **Power BI Desktop**  
+3. Refresh the dataset (if applicable)  
+4. Use slicers and visuals to explore insights  
+
+---
+
+## 📌 Use Cases
+- CRM data quality assessment  
+- Customer profile enrichment tracking  
+- Sales and marketing data readiness  
+- Enterprise data governance  
+- Executive reporting and audits  
+
+---
+
+## 🔮 Future Enhancements
+- Automated data quality scoring  
+- Historical trend analysis  
+- Integration with CRM or ERP systems  
+- Scheduled refresh with alerts for critical gaps  
+
+---
+
+## 🤝 Contributions
+Contributions, enhancements, and feedback are welcome.  
+Please open an issue or submit a pull request for improvements.
+
+---
+
+## 📬 Contact
+For questions or collaboration opportunities, feel free to connect via GitHub.
+
+---
+
+**⭐ If you find this project useful, please consider starring the repository.**
